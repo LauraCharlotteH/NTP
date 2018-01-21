@@ -36,7 +36,7 @@ public class TimeClient {
 	}
 
 	private void sendNTPRequest(NTPRequest request) {
-		//
+		//TODO
 
 	}
 

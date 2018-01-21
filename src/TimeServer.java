@@ -13,7 +13,7 @@ public class TimeServer {
 		try {
 			serverSocket = new ServerSocket(PORT);
 			System.out.println("Server started on port: " + PORT);
-			//
+			//TODO
 
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -47,12 +47,12 @@ public class TimeServer {
 
 		@Override
 		public void run() {
-			///
+			//TODO
 
 		}
 
 		private void sendNTPAnswer(NTPRequest request) {
-			///
+			//TODO
 		}
 
 	}

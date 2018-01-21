@@ -44,7 +44,7 @@ public class NTPRequest implements Serializable{
 	}
 	
 	public void calculateOandD() {
-		////
+		//TODO
 	}
 	
 }
